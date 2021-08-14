@@ -1,0 +1,38 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px palevioletred;
+}
+.heading_div{
+    float: none;
+    background-color: salmon;
+    padding: 10px;
+    border-radius: 20px;
+    color: red;
+    box-shadow: 5px 5px 5px palevioletred;
+    font-family: 'WindSong', cursive;
+}
+.heading_div2{
+    font-size: 10px;
+    font-family: 'WindSong', cursive;
+}
+.result_para_tag {
+	box-shadow: 5px 5px 5px red;
+	font-size: 20px;
+}
+.copy_right_footer {
+	position: fixed;
+	color: white;
+	bottom: 0;
+	width: 100%;
+	background-color: red;
+	line-height: 3;
+	text-align: center;
+}
+canvas {
+	border: 5px solid white;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px red;
+	margin-top: 150px;
+}
